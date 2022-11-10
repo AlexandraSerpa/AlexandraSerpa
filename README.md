@@ -5,7 +5,7 @@
 -->
 
 - 🔭 Actualemente, estoy trabajando en el Ayuntamiento de Candelaria
-- 
+
 - 🌱 Estudio el máster en formación de profesorado en la Universidad de La laguna
 
 
